@@ -11,6 +11,7 @@ class RealEstateItem(scrapy.Item):
     # name = scrapy.Field()
     type = scrapy.Field()
     rooms = scrapy.Field()
+    neighborhood = scrapy.Field()
     suites = scrapy.Field()
     bathrooms = scrapy.Field()
     garages = scrapy.Field()
