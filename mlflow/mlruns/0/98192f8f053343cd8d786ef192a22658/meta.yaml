@@ -1,0 +1,15 @@
+artifact_uri: file:///media/desktop-mint/Dados/Projetos/Scrapy/scrapy_real_estate/mlflow/mlruns/0/98192f8f053343cd8d786ef192a22658/artifacts
+end_time: 1658770079146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 98192f8f053343cd8d786ef192a22658
+run_uuid: 98192f8f053343cd8d786ef192a22658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658770076813
+status: 3
+tags: []
+user_id: desktop-mint

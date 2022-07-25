@@ -2,6 +2,7 @@
 # P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 # Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
+from importlib.resources import path
 import os
 import warnings
 import sys
@@ -13,7 +14,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
-from urllib.parse import urlparse
 import mlflow
 import mlflow.sklearn
 
@@ -34,15 +34,14 @@ if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
 
-    # Read the wine-quality csv file from the URL
-    csv_url = (
+    path_file = (
         "data/ativa_data.csv"
     )
     try:
-        data = pd.read_csv(csv_url)
+        data = pd.read_csv(path_file)
     except Exception as e:
         logger.exception(
-            "Unable to download training & test CSV, check your internet connection. Error: %s", e
+            "Error: %s", e
         )
     
     # dealing with empty values
@@ -68,23 +67,21 @@ if __name__ == "__main__":
     #get dummies
     data = pd.get_dummies(data)
 
-    # Split the data into training and test sets. (0.75, 0.25) split.
-    train, test = train_test_split(data)
+    # Split the data into training and test sets.
+    X = data.drop(columns=['price'])
+    y = data['price']
 
-    # The predicted column is "quality" which is a scalar from [3, 9]
-    train_x = train.drop(["price"], axis=1)
-    test_x = test.drop(["price"], axis=1)
-    train_y = train[["price"]]
-    test_y = test[["price"]]
+    X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=.30, random_state=40)
+
 
     with mlflow.start_run():
 
         lr = make_pipeline(StandardScaler(with_mean=False), LinearRegression())
-        lr.fit(train_x, train_y)
+        lr.fit(X_train, y_train)
 
-        predicted_qualities = lr.predict(test_x)
+        predicted_qualities = lr.predict(X_test)
 
-        (rmse, mae, r2) = eval_metrics(test_y, predicted_qualities)
+        (rmse, mae, r2) = eval_metrics(y_test, predicted_qualities)
 
         print("LinearRegression model")
         print("  RMSE: %s" % rmse)
@@ -95,15 +92,7 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
-        tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
-
-        # Model registry does not work with file store
-        if tracking_url_type_store != "file":
-
-            # Register the model
-            # There are other ways to use the Model Registry, which depends on the use case,
-            # please refer to the doc for more information:
-            # https://mlflow.org/docs/latest/model-registry.html#api-workflow
-            mlflow.sklearn.log_model(lr, "model", registered_model_name="LinearRegressionRealEstate")
-        else:
-            mlflow.sklearn.log_model(lr, "model")
+        mlflow.sklearn.log_model(
+            sk_model=lr,
+            artifact_path="sklearn-model"
+        )
