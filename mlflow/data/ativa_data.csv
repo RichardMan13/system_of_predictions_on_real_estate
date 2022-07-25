@@ -1,0 +1,1119 @@
+"id","price","type","rooms","neighborhood","suites","bathrooms","garages","private_area","total_area"
+1,468000,"Apartamento",3,"Jardim La Salle",1,2,2,89.27,0
+2,680000,"Apartamento",3,"Centro",1,2,1,120,168.42
+3,230000,"Casa",2,"São Francisco",0,1,1,65.94,128.3
+4,580000,"Casa",3,"Jardim Gisela",1,2,2,107.97,180
+5,270000,"Casa",2,"Jardim Panorama",1,2,2,70,166.67
+6,580000,"Casa",3,"Jardim Gisela",1,2,2,108,180
+7,240000,"Apartamento",2,"Jardim Coopagro",0,1,1,79.19,0
+8,425000,"Casa",3,"Jardim Coopagro",0,2,2,145,250
+9,360000,"Apartamento",2,"Jardim Pancera",1,2,1,98.62,0
+10,580000,"Casa",3,"Jardim Gisela",1,2,2,107.97,180
+11,580000,"Casa",3,"Jardim Gisela",1,2,2,108,180
+12,270000,"Apartamento",2,"Jardim Porto Alegre",0,1,1,74,81.5
+13,800000,"Apartamento",3,"Centro",1,2,2,105,190
+14,453000,"Apartamento",3,"Jardim La Salle",1,2,2,89.27,0
+15,550000,"Apartamento",3,"Vila Industrial",1,3,2,100.59,127.69
+16,285000,"Casa",2,"Jardim Coopagro",0,2,1,84.85,125
+17,1050000,"Casa",2,"Jardim Pancera",1,3,2,165.26,245
+18,469170,"Apartamento",2,"Jardim Paraná",1,2,1,87,119
+19,750000,"Apartamento",3,"Jardim Santa Maria",1,2,1,167.55,205.05
+20,750000,"Apartamento",3,"Jardim Santa Maria",1,2,1,166.84,204.18
+21,810000,"Apartamento",3,"Jardim Santa Maria",1,2,1,167.84,205.05
+22,2990000,"Apartamento",3,"Vila Industrial",3,4,3,170.54,328.73
+23,650000,"Casa",3,"Jardim Pancera",1,3,1,115,180
+24,225000,"Casa",2,"Jardim Panorama",1,2,1,53.1,120
+25,225000,"Casa",2,"Jardim Panorama",1,2,1,53.1,120
+26,225000,"Casa",2,"Jardim Panorama",1,2,1,53.1,120
+27,800000,"Apartamento",3,"Jardim Santa Maria",1,2,1,167.84,205.05
+28,225000,"Casa",2,"Jardim Panorama",1,2,1,53.1,120
+29,467407,"Apartamento",3,"Jardim Paraná",1,2,1,87,119
+30,650000,"Apartamento",3,"Centro",1,2,1,108,0
+31,285000,"Casa",2,"Jardim Coopagro",0,2,1,84.85,125
+32,850000,"Apartamento",3,"Jardim Santa Maria",1,2,1,167.84,205.05
+33,225000,"Casa",2,"Jardim Panorama",1,2,1,53.1,120
+34,650000,"Apartamento",3,"Centro",1,2,1,108,0
+35,765000,"Apartamento",3,"Centro",1,2,1,108,0
+36,670000,"Apartamento",3,"Centro",1,2,1,108,0
+37,760000,"Apartamento",3,"Centro",1,2,1,108,0
+38,780000,"Apartamento",3,"Centro",1,2,1,108,0
+39,422106,"Apartamento",2,"Jardim Paraná",1,2,1,83,114
+40,300000,"Casa",2,"Jardim Bressan",1,2,2,75,125.83
+41,511770,"Apartamento",3,"Jardim Paraná",1,2,1,96,130
+42,441050,"Apartamento",3,"Jardim Paraná",1,2,1,87,119
+43,509595,"Apartamento",3,"Jardim Paraná",1,2,1,93,127
+44,670000,"Apartamento",3,"Centro",1,2,1,108,0
+45,478636,"Apartamento",3,"Jardim Paraná",1,2,1,93,127
+46,499919,"Apartamento",2,"Jardim Paraná",1,2,1,91,124
+47,469927,"Apartamento",2,"Jardim Paraná",1,2,1,91,124
+48,785000,"Apartamento",3,"Centro",1,2,1,108,0
+49,475000,"Casa",3,"Jardim Gisela",1,2,2,148.11,291.2
+50,1200000,"Casa",3,"Jardim Gisela",1,3,1,173,412.66
+51,650000,"Casa",3,"Jardim Gisela",1,3,2,130,187.5
+52,630000,"Apartamento",3,"Centro",1,2,1,108,0
+53,630000,"Apartamento",3,"Centro",1,2,1,108,0
+54,1175000,"Apartamento",3,"Jardim La Salle",3,4,3,160,0
+55,700000,"Apartamento",3,"Centro",1,2,1,108,0
+56,740000,"Apartamento",3,"Centro",1,2,1,108,0
+57,720000,"Apartamento",3,"Centro",1,2,1,108,0
+58,705000,"Apartamento",3,"Centro",1,2,1,108,0
+59,610000,"Apartamento",3,"Centro",1,2,1,108,0
+60,610000,"Apartamento",3,"Centro",1,2,1,108,0
+61,630000,"Apartamento",3,"Centro",1,2,1,108,0
+62,745000,"Apartamento",3,"Centro",1,2,1,108,0
+63,725000,"Apartamento",3,"Centro",1,2,1,108,0
+64,630000,"Apartamento",3,"Centro",1,2,1,108,0
+65,550000,"Casa",3,"Jardim Pancera",1,2,1,99.95,180
+66,525000,"Casa",3,"Jardim Pancera",1,2,2,100,180
+67,790000,"Casa",3,"Jardim Gisela",1,2,5,176.99,370.96
+68,525000,"Casa",3,"Jardim Pancera",1,2,2,100,180
+69,250000,"Casa",2,"Jardim Concórdia",1,2,1,58,87.5
+70,650000,"Apartamento",3,"Centro",1,2,1,130,156.68
+71,275000,"Apartamento",2,"Vila Industrial",0,1,1,54.38,90.41
+72,210000,"Casa",2,"São Francisco",1,2,1,54,127
+73,150000,"Casa",2,"Jardim Europa",0,1,0,41.85,116.94
+74,550000,"Casa",3,"Jardim Pancera",1,2,1,99.95,180
+75,258000,"Casa",2,"Jardim Parizzotto",0,1,1,71.58,74.66
+76,1580000,"Casa",3,"Vila Industrial",3,3,4,217,454
+77,1350000,"Casa",3,"Tocantins",1,3,2,142.35,360.18
+78,480000,"Apartamento",3,"Centro",1,2,2,106,140
+79,900000,"Apartamento",3,"Vila Industrial",3,4,1,107.01,180
+80,800000,"Casa",3,"Jardim Gisela",1,3,2,130,217.5
+81,3800000,"Casa",3,"Jardim La Salle",3,4,4,350.4,796.5
+82,265000,"Casa",3,"Jardim Coopagro",1,2,1,68,125
+83,400000,"Casa",2,"Jardim Pancera",1,2,1,98.2,180
+84,440000,"Apartamento",2,"Jardim Gisela",1,2,1,83.4,115.98
+85,1100000,"Casa",4,"Jardim Gisela",1,2,4,163,297.77
+86,510000,"Apartamento",2,"Centro",1,2,2,72.5,112.87
+87,590000,"Apartamento",2,"Centro",1,2,2,75.15,117.23
+88,450000,"Casa",2,"Jardim Santa Maria",0,1,1,70,549.9
+89,800000,"Casa",3,"Jardim Gisela",1,3,2,130,217.5
+90,640000,"Casa",3,"Vila Becker",1,2,2,107.7,216
+91,640000,"Casa",3,"Vila Becker",1,2,2,107.7,216
+92,245000,"Apartamento",2,"Vila Industrial",0,1,1,57.98,61.67
+93,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+94,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+95,231000,"Apartamento",1,"Jardim Porto Alegre",0,1,1,43.45,56.11
+96,230000,"Casa",2,"São Francisco",0,1,0,65.4,275
+97,300000,"Apartamento",2,"Jardim Porto Alegre",0,1,1,60,81.88
+98,255000,"Casa",2,"Jardim Coopagro",0,2,2,84.85,125
+99,900000,"Apartamento",2,"Centro",1,2,2,213.86,0
+100,368000,"Casa",2,"Jardim Concórdia",0,2,1,97.7,217.7
+101,255000,"Casa",2,"Jardim Coopagro",0,2,2,84.85,125
+102,230000,"Casa",2,"Jardim Panorama",1,2,1,53.22,125
+103,360000,"Apartamento",2,"Jardim Santa Maria",1,2,1,81.8,108.65
+104,287680,"Apartamento",2,"Jardim Tocantins",0,1,1,54.17,0
+105,390000,"Casa",3,"Jardim Santa Clara IV",1,2,2,145,258.5
+106,350000,"Apartamento",2,"Parque Residencial Gisela",1,2,1,60,90
+107,230000,"Casa",2,"Jardim Coopagro",1,2,1,58,125
+108,230000,"Casa",2,"Jardim Coopagro",1,2,1,58,125
+109,279000,"Casa",2,"Jardim Europa",0,1,1,65,250
+110,400000,"Casa",2,"Jardim Coopagro",0,1,2,186,490
+111,450000,"Casa",2,"Jardim Panorama",0,1,3,67.7,444.46
+112,800000,"Casa",3,"Jardim Coopagro",0,2,2,245,490
+113,249000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+114,370000,"Casa",3,"Jardim Coopagro",0,1,2,147.98,287.5
+115,400000,"Apartamento",2,"Jardim Santa Maria",1,2,1,81.8,0
+116,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+117,205000,"Casa",2,"Jardim Panorama",0,1,1,48.34,125
+118,700000,"Casa",3,"Jardim Pancera",1,2,2,130,360
+119,3000000,"Casa",4,"Jardim La Salle",1,3,1,332.62,574.2
+120,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+121,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+122,659000,"Casa",3,"Jardim Coopagro",1,3,4,193.05,312.5
+123,249000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+124,250000,"Casa",2,"Jardim Coopagro",0,1,1,120.42,267.5
+125,275000,"Casa",2,"Jardim Panorama",1,2,1,68.38,125
+126,390000,"Apartamento",3,"Jardim La Salle",1,2,1,87,0
+127,1650000,"Apartamento",3,"Jardim La Salle",3,5,2,236,368
+128,580000,"Casa",2,"Jardim Porto Alegre",0,2,2,129.57,375
+129,480000,"Casa",3,"Jardim Coopagro",0,2,1,164,287.5
+130,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+131,230000,"Casa",2,"Pinheirinho",0,1,1,50.16,87.38
+132,259000,"Casa",2,"São Francisco",1,2,1,55,132.5
+133,2200000,"Casa",3,"Jardim La Salle",1,3,1,176.82,855
+134,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+135,259000,"Casa",2,"São Francisco",1,2,1,55,132.5
+136,300000,"Casa",2,"Jardim Panorama",0,1,1,50.89,385
+137,2000000,"Casa",3,"Novo Sarandi",1,2,2,390,800
+138,320000,"Casa",3,"Jardim Coopagro",1,2,1,75,157
+139,540000,"Casa",3,"Jardim Concórdia",1,2,2,108,180
+140,320000,"Casa",3,"Jardim Coopagro",1,2,1,75,157
+141,950000,"Casa",3,"Jardim La Salle",1,3,4,209.94,644
+142,560000,"Casa",3,"Jardim Pancera",1,2,2,104.52,180.04
+143,450000,"Casa",2,"Jardim Concórdia",1,2,2,83,180
+144,160000,"Apartamento",2,"Jardim Concórdia",0,1,1,73.05,0
+145,235000,"Apartamento",2,"Jardim Anápolis",0,1,1,52.53,60.56
+146,275000,"Casa",2,"Jardim Panorama",1,2,1,68.38,125
+147,315000,"Casa",2,"Jardim Concórdia",1,2,1,62.41,145
+148,315000,"Casa",2,"Jardim Concórdia",1,2,1,62.41,145
+149,500000,"Apartamento",3,"Centro",2,3,2,108.72,121.95
+150,295000,"Apartamento",2,"Jardim Pancera",0,1,1,60.08,86.93
+151,239000,"Casa",2,"Jardim Coopagro",0,1,1,54.92,134.24
+152,900000,"Casa",3,"Centro",1,3,2,176.95,500
+153,290000,"Apartamento",2,"Jardim Pancera",0,1,1,60.08,86.93
+154,290000,"Apartamento",2,"Jardim Pancera",0,1,1,60.08,86.93
+155,295000,"Apartamento",2,"Jardim Pancera",0,1,1,60.08,86.93
+156,453000,"Apartamento",3,"Centro",1,2,1,118.07,126.97
+157,250000,"Casa",2,"Jardim Panorama",0,1,2,80,162.16
+158,730000,"Casa",4,"Vila Industrial",1,3,1,248,482.4
+159,310000,"Casa",4,"Jardim Panorama",0,1,1,110,443.8
+160,870000,"Apartamento",4,"Jardim Porto Alegre",2,3,2,207.33,238.06
+161,200000,"Casa",2,"Pinheirinho",0,1,1,54,125
+162,850000,"Casa",3,"Jardim Porto Alegre",1,2,1,151.14,525
+163,920000,"Casa",3,"Jardim Gisela",1,3,1,128,274
+164,475000,"Casa",3,"Jardim Coopagro",1,2,1,119.32,225
+165,500000,"Casa",3,"Vila Becker",1,2,1,102.3,180
+166,220000,"Casa",2,"Jardim Panorama",1,2,2,53.1,120
+167,280000,"Apartamento",3,"Centro",1,2,0,105.42,113.43
+168,550000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+169,220000,"Casa",2,"Jardim Panorama",1,2,2,53.1,120
+170,500000,"Casa",3,"Vila Becker",1,2,1,102.3,180
+171,220000,"Casa",2,"Jardim Panorama",1,2,2,53.1,120
+172,220000,"Casa",2,"Jardim Panorama",1,2,2,53.1,120
+173,300000,"Casa",2,"Jardim Coopagro",1,1,2,60,250
+174,220000,"Casa",2,"Jardim Panorama",1,2,2,53.1,120
+175,750000,"Casa",3,"Jardim Pancera",1,3,3,234.91,372
+176,220000,"Casa",2,"São Francisco",1,2,1,61.85,146.74
+177,427000,"Casa",2,"São Francisco",0,1,1,99.99,260.77
+178,349000,"Apartamento",2,"Jardim Gisela",1,2,1,68.75,96.5
+179,220000,"Casa",2,"São Francisco",1,2,1,61.85,146.74
+180,555000,"Apartamento",2,"Jardim Tocantins",1,2,1,85,108
+181,490000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+182,500000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+183,520000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+184,510000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+185,210000,"Casa",2,"Jardim Coopagro",0,1,1,51.81,125
+186,550000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+187,530000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+188,520000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+189,540000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+190,530000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+191,390000,"Casa",3,"Jardim Pancera",0,1,1,132.13,180
+192,540000,"Apartamento",2,"Jardim Tocantins",1,2,1,70,93
+193,250000,"Apartamento",2,"Jardim Concórdia",0,1,1,59.2,0
+194,349000,"Apartamento",2,"Jardim Porto Alegre",1,2,1,63,92
+195,280000,"Casa",2,"Jardim Panorama",0,1,1,127.15,199
+196,1200000,"Casa",3,"Jardim Gisela",1,3,2,192,360
+197,315000,"Apartamento",3,"Centro",1,2,1,118.07,126.97
+198,349000,"Apartamento",2,"Jardim Porto Alegre",1,2,1,63,92
+199,349000,"Apartamento",2,"Jardim Porto Alegre",1,2,1,63,92
+200,379000,"Apartamento",2,"Jardim Santa Maria",1,2,1,72,103
+201,379000,"Apartamento",2,"Jardim Santa Maria",1,2,1,72,103
+202,379000,"Apartamento",2,"Jardim Santa Maria",1,2,1,72,103
+203,379000,"Apartamento",2,"Jardim Santa Maria",1,2,1,72,103
+204,390000,"Casa",3,"Jardim Europa",0,2,2,99.96,300
+205,260000,"Apartamento",2,"Jardim Santa Maria",0,1,1,53.21,84.54
+206,320000,"Apartamento",2,"Jardim Bandeirantes",1,2,1,70,95
+207,285000,"Casa",2,"São Francisco",1,2,1,61,125
+208,320000,"Apartamento",3,"Jardim Gisela",1,2,1,53.88,67.42
+209,349000,"Apartamento",2,"Jardim Porto Alegre",1,2,1,63,92
+210,305000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+211,309000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+212,305000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+213,319000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+214,329000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+215,319000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+216,339000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+217,339000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+218,329000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+219,315000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+220,560000,"Casa",2,"Vila Becker",0,1,1,104.5,180
+221,309000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+222,315000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+223,325000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.26,85.6
+224,198000,"Apartamento",1,"Jardim Tocantins",0,1,1,52.8,0
+225,420000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+226,400000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+227,400000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+228,410000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+229,410000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+230,470000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+231,420000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+232,420000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+233,460000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+234,460000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+235,450000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+236,420000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+237,560000,"Casa",2,"Vila Becker",0,1,1,104.5,180
+238,450000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+239,460000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+240,353000,"Apartamento",2,"Jardim Tocantins",0,1,1,65.65,91.65
+241,353000,"Apartamento",2,"Jardim Tocantins",0,1,1,67.13,93.13
+242,490000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+243,353000,"Apartamento",2,"Jardim Tocantins",0,1,1,67.13,93.13
+244,363000,"Apartamento",2,"Jardim Tocantins",0,1,1,67,92
+245,363000,"Apartamento",2,"Jardim Tocantins",0,1,1,67.13,93.13
+246,363000,"Apartamento",2,"Jardim Tocantins",0,1,1,67.13,93.13
+247,383000,"Apartamento",2,"Jardim Tocantins",0,1,1,67,92
+248,383000,"Apartamento",2,"Jardim Tocantins",0,1,1,65.65,91.65
+249,373000,"Apartamento",2,"Jardim Tocantins",0,1,1,67,92
+250,363000,"Apartamento",2,"Jardim Tocantins",0,1,1,65.65,91.65
+251,410000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+252,353000,"Apartamento",2,"Jardim Tocantins",0,1,1,65.65,91.65
+253,410000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+254,595000,"Apartamento",3,"Vila Industrial",1,2,2,116,187.68
+255,390000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+256,250000,"Casa",3,"Jardim Coopagro",0,1,1,63,125
+257,373000,"Apartamento",2,"Jardim Tocantins",0,1,1,67,92
+258,300000,"Casa",3,"Jardim Concórdia",0,2,1,120,303.18
+259,390000,"Apartamento",2,"Jardim La Salle",1,2,1,60,89.55
+260,450000,"Casa",3,"Jardim Panorama",0,1,1,120,345
+261,215000,"Casa",2,"Pinheirinho",0,1,1,51.78,125
+262,260000,"Casa",3,"Jardim Coopagro",1,2,1,68,125
+263,200000,"Casa",2,"Jardim Bressan",0,1,2,72,269
+264,195000,"Casa",2,"Pinheirinho",0,1,1,50.06,86.01
+265,227000,"Casa",2,"São Francisco",1,2,2,80,153.9
+266,165000,"Casa",2,"Vila Pioneiro",0,1,1,70,77.38
+267,183000,"Casa",2,"Pinheirinho",0,1,1,56,68.75
+268,215000,"Casa",2,"Pinheirinho",0,1,1,51.78,125
+269,1300000,"Casa",3,"Jardim Pancera",3,5,4,205.59,381
+270,220000,"Casa",2,"São Francisco",1,2,1,54,132.5
+271,650000,"Casa",3,"Jardim Concórdia",1,2,2,121.48,216.9
+272,190000,"Casa",3,"Vila Pioneiro",0,1,1,83,100.28
+273,530000,"Casa",3,"Vila Becker",1,2,1,100.84,180
+274,219000,"Casa",2,"São Francisco",1,2,1,60,125
+275,227000,"Casa",2,"São Francisco",1,2,2,80,153.9
+276,540000,"Casa",3,"Jardim Concórdia",1,2,2,106.52,179.1
+277,530000,"Casa",3,"Vila Becker",1,2,1,100.84,180
+278,275000,"Casa",3,"Jardim Panorama",1,2,1,71.09,125
+279,250000,"Casa",3,"Jardim Panorama",1,2,1,71.09,125
+280,370000,"Casa",3,"Centro",0,2,1,180,400
+281,1100000,"Casa",3,"Vila Industrial",1,2,2,160,376.14
+282,260000,"Casa",3,"Jardim Europa",0,1,1,58.39,330
+283,580000,"Casa",3,"Jardim Pancera",1,2,2,106,180
+284,580000,"Casa",3,"Jardim Pancera",1,2,2,106,180
+285,225000,"Casa",2,"Jardim Panorama",1,2,1,54.5,125
+286,680000,"Casa",3,"Jardim Coopagro",0,1,2,149.15,490
+287,285000,"Casa",3,"Jardim Panorama",0,1,1,76,166.66
+288,198000,"Casa",2,"Pinheirinho",0,1,1,54,128.95
+289,672476,"Apartamento",3,"Jardim La Salle",1,2,2,116.38,171.7
+290,702188,"Apartamento",3,"Jardim La Salle",1,2,2,119.89,175.57
+291,205000,"Casa",2,"Jardim Santa Clara IV",0,1,1,50.27,87.69
+292,828875,"Apartamento",3,"Jardim La Salle",1,2,2,119.89,172.98
+293,687950,"Apartamento",3,"Jardim La Salle",1,2,2,116.38,172.01
+294,764350,"Apartamento",3,"Jardim La Salle",1,2,2,116.38,168.53
+295,390000,"Casa",3,"Vila Pioneiro",0,1,2,88.2,370
+296,807551,"Apartamento",3,"Jardim La Salle",1,2,2,116.38,168.53
+297,185000,"Casa",2,"Pinheirinho",0,1,0,50.31,76
+298,185000,"Casa",2,"Pinheirinho",0,1,0,50.59,76
+299,750000,"Apartamento",2,"Vila Brasil",1,2,1,356,356
+300,202500,"Casa",2,"Pinheirinho",0,1,1,55.04,98.75
+301,450000,"Casa",3,"Jardim Pancera",0,2,3,180,360.36
+302,280000,"Casa",3,"Jardim Europa",0,1,1,100,188
+303,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+304,300000,"Casa",2,"Jardim Pancera",1,2,2,80,150
+305,320000,"Casa",3,"Jardim Gisela",1,2,3,130,207.54
+306,249000,"Apartamento",2,"Vila Becker",0,1,1,62.32,0
+307,245000,"Casa",2,"Jardim Bressan",1,2,1,60,142
+308,255000,"Casa",2,"Jardim Panorama",1,2,1,61,0
+309,380000,"Casa",3,"Jardim Panorama",1,3,3,159.99,302.5
+310,255000,"Casa",2,"Jardim Panorama",1,2,1,61,0
+311,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+312,205000,"Casa",2,"Jardim Panorama",0,1,1,48.05,125
+313,380000,"Casa",4,"São Francisco",1,2,1,120,284.74
+314,340000,"Casa",2,"São Francisco",1,2,1,74.81,122.71
+315,198000,"Casa",2,"Pinheirinho",0,1,0,53,127
+316,250000,"Casa",2,"Vila Pioneiro",0,2,2,100,249.74
+317,199000,"Casa",2,"Jardim Panorama",0,1,1,63.53,92.64
+318,890000,"Apartamento",3,"Centro",1,4,2,158.04,0
+319,240000,"Casa",2,"São Francisco",0,1,1,56,126.14
+320,320000,"Apartamento",2,"Vila Industrial",2,3,1,81.13,0
+321,350000,"Casa",2,"São Francisco",0,1,1,64.35,95.33
+322,350000,"Casa",3,"Jardim Bressan",1,3,1,122,186.33
+323,255000,"Casa",2,"Jardim Europa",1,2,2,61.75,300
+324,350000,"Casa",2,"São Francisco",0,1,1,65.65,95.33
+325,390000,"Casa",2,"São Francisco",1,2,1,69.9,95.33
+326,240000,"Casa",2,"São Francisco",0,1,1,56,126.14
+327,790000,"Apartamento",3,"Centro",1,3,2,111,0
+328,280000,"Apartamento",2,"Centro",0,1,1,67.33,0
+329,350000,"Casa",3,"São Francisco",1,2,1,76.44,158
+330,880000,"Casa",4,"Jardim La Salle",0,3,2,245.04,520.52
+331,155000,"Apartamento",2,"São Francisco",0,1,1,47.69,0
+332,380000,"Apartamento",2,"Jardim Porto Alegre",1,2,2,77.22,0
+333,320000,"Casa",2,"Jardim Bressan",0,1,1,95,127.2
+334,220000,"Casa",2,"Pinheirinho",1,2,2,60,128.95
+335,215000,"Casa",2,"Pinheirinho",0,1,1,53.6,115
+336,1260000,"Apartamento",3,"Jardim La Salle",3,4,2,214,0
+337,598000,"Apartamento",3,"Jardim La Salle",1,2,2,127,0
+338,270000,"Apartamento",2,"Jardim La Salle",0,1,1,53.89,0
+339,610000,"Apartamento",3,"Jardim La Salle",1,2,2,127,0
+340,275000,"Apartamento",2,"Jardim La Salle",0,1,1,53.89,0
+341,398500,"Casa",3,"Jardim Concórdia",1,3,1,104.2,79.24
+342,610000,"Apartamento",3,"Jardim La Salle",1,2,2,127,0
+343,620000,"Apartamento",3,"Jardim La Salle",1,2,2,127,0
+344,299000,"Apartamento",2,"Vila Industrial",1,2,1,76,0
+345,1950000,"Casa",3,"Jardim Tocantins",1,3,4,274,814
+346,530000,"Casa",2,"Jardim Pancera",0,2,0,99.85,504
+347,295000,"Casa",2,"Jardim Coopagro",1,2,1,60.4,125
+348,665000,"Apartamento",3,"Jardim La Salle",1,2,2,127,0
+349,220000,"Casa",2,"São Francisco",1,2,2,56,125
+350,690000,"Apartamento",3,"Jardim Parizzotto",1,2,2,130.6,0
+351,450000,"Casa",2,"Vila Pioneiro",0,1,1,166.42,187.5
+352,650000,"Casa",2,"Jardim Porto Alegre",1,2,1,118.72,360.75
+353,420000,"Casa",3,"Vila Pioneiro",0,1,1,0,345
+354,256000,"Casa",2,"São Francisco",1,2,2,61.5,132.5
+355,1320375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+356,256000,"Casa",2,"São Francisco",1,2,2,61.5,132.5
+357,949000,"Casa",3,"Vila Industrial",3,4,2,163,379.2
+358,315000,"Casa",2,"Jardim Panorama",0,1,2,126,250
+359,225000,"Casa",2,"Jardim Panorama",0,2,1,62.88,55
+360,462000,"Casa",3,"Jardim Concórdia",1,2,2,86,180
+361,350000,"Apartamento",2,"Jardim Santa Maria",1,2,1,74.44,0
+362,462000,"Casa",3,"Jardim Concórdia",1,2,2,86,180
+363,850000,"Apartamento",3,"Centro",3,3,2,0,0
+364,690000,"Casa",4,"Jardim Concórdia",0,2,3,98,525
+365,1299375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+366,355000,"Apartamento",2,"Jardim Santa Maria",1,2,1,74.44,0
+367,580000,"Apartamento",3,"Vila Industrial",1,2,2,119.86,0
+368,1110375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+369,1131375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+370,1152375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+371,1194375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+372,1110375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+373,1173375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+374,1152375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+375,1131375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+376,1194375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+377,1236375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+378,1215375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+379,1278375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+380,1215375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+381,1257375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+382,440000,"Casa",3,"Jardim Pancera",1,2,2,87,199.49
+383,495000,"Casa",3,"Jardim Pancera",1,2,2,107,199.49
+384,1257375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+385,240000,"Casa",2,"Jardim Europa",1,2,2,58,125
+386,350000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+387,1347255,"Apartamento",3,"Vila Industrial",1,2,2,120,0
+388,2134492,"Apartamento",3,"Vila Industrial",3,4,2,230,0
+389,1036350,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+390,500000,"Casa",3,"Vila Becker",1,2,1,100,525
+391,450000,"Apartamento",2,"Centro",1,2,2,70.56,0
+392,350000,"Casa",2,"Jardim Parizzotto",0,1,1,109.64,311.66
+393,1047375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+394,1047375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+395,1089375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+396,1068375,"Apartamento",2,"Vila Industrial",2,3,2,120,0
+397,1089375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+398,342125,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+399,1068375,"Apartamento",3,"Vila Industrial",1,3,2,120,0
+400,345000,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+401,362250,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+402,350750,"Apartamento",2,"Jardim Pancera",1,2,1,66.96,0
+403,350750,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+404,350750,"Apartamento",2,"Jardim Pancera",1,2,1,67,0
+405,345000,"Apartamento",2,"Jardim Pancera",1,2,1,66.96,0
+406,350750,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+407,345000,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+408,356500,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+409,356500,"Apartamento",2,"Jardim Pancera",1,2,1,66.96,0
+410,362250,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+411,362250,"Apartamento",2,"Jardim Pancera",1,2,1,67,0
+412,356500,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+413,379500,"Apartamento",2,"Jardim Pancera",1,2,2,66.96,0
+414,356500,"Apartamento",2,"Jardim Pancera",1,2,1,67,0
+415,210000,"Apartamento",2,"Jardim Coopagro",0,1,1,54.5,0
+416,342125,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+417,255000,"Casa",2,"São Francisco",0,1,1,55,127
+418,925000,"Casa",4,"Jardim La Salle",1,2,4,176.26,416
+419,393612,"Apartamento",2,"Centro",1,2,1,74.4,0
+420,275000,"Apartamento",2,"Jardim Concórdia",0,1,1,56.89,0
+421,265000,"Casa",2,"São Francisco",1,2,1,59,127
+422,388217,"Apartamento",2,"Centro",1,2,1,74.4,0
+423,370000,"Casa",3,"Jardim Tocantins",2,3,1,120,288
+424,470000,"Apartamento",3,"Centro",1,2,1,122,0
+425,342125,"Apartamento",2,"Jardim Pancera",1,2,1,66.96,0
+426,339250,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+427,339250,"Apartamento",2,"Jardim Pancera",1,2,1,69.65,0
+428,339250,"Apartamento",2,"Jardim Pancera",1,2,1,67,0
+429,635000,"Apartamento",3,"Jardim La Salle",1,2,2,120,0
+430,342125,"Apartamento",2,"Jardim Pancera",1,2,1,67,0
+431,290000,"Casa",3,"Vila Pioneiro",0,1,1,135,291
+432,330000,"Casa",2,"Jardim Panorama",0,1,1,58.07,250
+433,499000,"Apartamento",2,"Vila Industrial",2,4,2,80.44,0
+434,870000,"Apartamento",3,"Jardim La Salle",1,2,2,110,0
+435,520000,"Apartamento",2,"Vila Becker",1,2,1,61.9,0
+436,230000,"Casa",2,"Jardim Europa",0,1,2,61.8,149
+437,420000,"Apartamento",2,"Jardim La Salle",0,1,2,78.53,0
+438,395000,"Casa",6,"Jardim Pancera",0,2,4,185.46,514.85
+439,290000,"Apartamento",2,"Jardim Coopagro",0,1,1,75.52,0
+440,298000,"Casa",4,"Jardim Europa",2,3,3,140,250
+441,545000,"Apartamento",3,"Jardim La Salle",1,2,2,105,0
+442,1350000,"Casa",3,"Jardim Tocantins",1,3,2,200,141
+443,565000,"Apartamento",3,"Jardim La Salle",1,2,2,105,0
+444,565000,"Apartamento",3,"Jardim La Salle",1,2,2,105,0
+445,615000,"Apartamento",3,"Jardim La Salle",1,2,2,120,0
+446,545000,"Apartamento",3,"Jardim La Salle",1,2,2,105,0
+447,349000,"Apartamento",2,"Jardim Gisela",1,2,1,70,0
+448,429000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+449,185000,"Apartamento",2,"Jardim Tocantins",0,1,1,58.96,0
+450,509000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+451,509000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+452,390000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+453,409000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+454,409000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+455,529000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+456,390000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+457,549000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+458,419000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+459,529000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+460,559000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+461,349000,"Apartamento",2,"Jardim Gisela",1,2,1,70,0
+462,429000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+463,419000,"Apartamento",2,"Vila Industrial",1,2,1,68,0
+464,230000,"Casa",2,"São Francisco",1,2,1,55,150
+465,250000,"Casa",2,"Vila Pioneiro",0,1,0,75.16,225
+466,420000,"Casa",3,"Vila Pioneiro",1,2,1,105,275
+467,495000,"Apartamento",3,"Jardim Pancera",1,3,2,85.08,0
+468,320000,"Casa",3,"Jardim Europa",1,3,2,140,200
+469,2600000,"Casa",4,"Vila Industrial",1,3,7,292.21,392
+470,1000000,"Casa",2,"Jardim Pancera",1,2,4,183.79,360
+471,250000,"Apartamento",2,"Centro",1,2,1,58.68,0
+472,550000,"Casa",2,"Vila Industrial",0,2,2,362.6,172.48
+473,370000,"Apartamento",2,"Biopark",1,2,1,40.7,0
+474,349000,"Apartamento",2,"Jardim Gisela",1,2,1,70,0
+475,260000,"Casa",3,"Jardim Coopagro",0,1,1,64.88,125
+476,375000,"Casa",3,"Jardim Concórdia",1,2,1,76,168
+477,1000000,"Casa",3,"Jardim Pancera",1,3,3,160,429.12
+478,349000,"Apartamento",2,"Jardim Gisela",1,2,1,70,0
+479,230000,"Casa",2,"São Francisco",1,2,1,55,150
+480,275000,"Casa",3,"Jardim Panorama",0,1,1,70.32,135
+481,180000,"Apartamento",2,"Centro",0,1,1,54.27,0
+482,420000,"Casa",3,"Jardim Concórdia",1,2,1,106.32,188.5
+483,450000,"Apartamento",2,"Vila Industrial",1,2,2,93.07,0
+484,540000,"Casa",3,"Jardim Pancera",1,2,1,106,180
+485,460000,"Casa",4,"Vila Pioneiro",0,2,0,170,355.9
+486,420000,"Casa",3,"Jardim Concórdia",1,2,1,105.42,188.5
+487,580000,"Casa",3,"Jardim Pancera",1,2,1,106,180
+488,280000,"Casa",5,"Vila Pioneiro",1,3,0,200,301.95
+489,420000,"Casa",3,"Jardim Concórdia",1,2,1,106.04,188.5
+490,228000,"Apartamento",2,"Jardim Pancera",0,1,1,58.6,0
+491,1700000,"Apartamento",3,"Vila Industrial",1,3,1,344.33,0
+492,1600000,"Casa",3,"Jardim Gisela",1,3,5,276.35,479
+493,650000,"Casa",3,"Jardim Coopagro",0,1,1,265,280.12
+494,249000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+495,220000,"Apartamento",2,"Jardim Porto Alegre",0,1,1,55.48,0
+496,850000,"Casa",3,"Centro",1,2,2,172.27,190
+497,225000,"Casa",2,"Jardim Panorama",1,2,1,65.4,125
+498,240000,"Casa",3,"Jardim Panorama",0,1,1,70.32,135
+499,850000,"Casa",3,"Centro",1,2,2,172.09,190
+500,244000,"Casa",2,"Jardim Coopagro",1,2,2,54,125
+501,350000,"Apartamento",2,"Jardim Gisela",0,1,1,75,0
+502,200000,"Apartamento",2,"Jardim Coopagro",0,1,1,55.19,0
+503,395000,"Casa",2,"Vila Industrial",1,2,1,63.22,125
+504,225000,"Casa",2,"Jardim Panorama",1,2,1,65.4,125
+505,375000,"Casa",2,"Vila Industrial",1,2,1,65.4,97
+506,1300000,"Casa",3,"Jardim La Salle",1,2,1,219,560
+507,140000,"Apartamento",2,"São Francisco",0,1,1,66.73,0
+508,870000,"Casa",4,"Jardim Pancera",1,3,1,213.85,360
+509,471800,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+510,477500,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+511,420000,"Apartamento",4,"Jardim La Salle",1,3,1,104.76,0
+512,460970,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+513,494600,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+514,483200,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+515,477500,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+516,471800,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+517,494600,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+518,506000,"Apartamento",2,"Jardim La Salle",1,2,1,73,0
+519,522000,"Apartamento",2,"Vila Industrial",1,2,1,84,0
+520,600000,"Casa",3,"Vila Becker",0,1,1,119.25,490
+521,510000,"Apartamento",2,"Vila Industrial",1,2,1,84,0
+522,2500000,"Apartamento",5,"Vila Operária",2,7,5,690,0
+523,509200,"Apartamento",2,"Vila Industrial",1,2,1,84,0
+524,850000,"Apartamento",3,"Centro",1,2,2,134.13,0
+525,650000,"Casa",3,"Centro",0,2,3,127,400
+526,250000,"Casa",2,"Pinheirinho",1,2,1,54.57,125
+527,275000,"Casa",3,"Jardim Panorama",0,1,1,70.32,135
+528,205000,"Casa",1,"Pinheirinho",1,2,1,0,127
+529,700000,"Apartamento",3,"Centro",1,3,2,145.98,0
+530,310000,"Apartamento",2,"Biopark",1,2,1,62.29,0
+531,250000,"Casa",2,"Pinheirinho",1,2,1,54.57,125
+532,312500,"Apartamento",2,"Biopark",1,2,1,62.29,0
+533,310000,"Apartamento",2,"Biopark",1,2,1,62.29,0
+534,315000,"Apartamento",2,"Biopark",1,2,1,62.29,0
+535,317500,"Apartamento",2,"Biopark",1,2,1,62.29,0
+536,315000,"Apartamento",2,"Biopark",1,2,1,62.29,0
+537,312500,"Apartamento",2,"Biopark",1,2,1,62.29,0
+538,320000,"Apartamento",2,"Biopark",1,2,1,62.29,0
+539,710000,"Apartamento",3,"Centro",1,3,2,152.73,0
+540,225000,"Casa",3,"Pinheirinho",1,2,1,61,127
+541,317500,"Apartamento",2,"Biopark",1,2,1,62.29,0
+542,1500000,"Casa",3,"Jardim Gisela",1,3,4,385,525
+543,467000,"Apartamento",3,"Jardim La Salle",1,2,2,89.27,0
+544,155000,"Casa",2,"Pinheirinho",0,1,1,41.85,150
+545,310000,"Casa",2,"Jardim Europa",0,1,2,70,135
+546,820000,"Apartamento",3,"Centro",1,2,2,136.66,0
+547,275000,"Casa",3,"Jardim Panorama",0,1,1,75.8,142
+548,468000,"Apartamento",3,"Jardim La Salle",1,2,2,91.63,0
+549,790000,"Casa",3,"Jardim Pancera",1,3,3,140.5,257.42
+550,270000,"Casa",3,"Jardim Panorama",0,1,1,75.8,150
+551,340000,"Apartamento",2,"Jardim La Salle",0,1,1,66.64,0
+552,390000,"Casa",3,"Jardim Pancera",1,2,2,99.56,194.25
+553,360000,"Casa",3,"Jardim Coopagro",1,3,3,101,250
+554,215000,"Casa",2,"Jardim Panorama",1,2,1,53.22,125
+555,485000,"Apartamento",3,"Jardim La Salle",1,2,2,91.63,0
+556,649000,"Casa",3,"Vila Industrial",2,3,2,140.37,384.8
+557,445000,"Apartamento",2,"Jardim Pancera",1,2,1,71.61,0
+558,570000,"Casa",3,"Vila Industrial",1,2,1,95.96,195
+559,140000,"Apartamento",2,"Jardim Panorama",0,1,1,56.25,0
+560,330000,"Casa",3,"Independência",1,2,2,140,490
+561,180000,"Apartamento",2,"Jardim Panorama",0,1,1,56.25,0
+562,460000,"Apartamento",3,"Jardim Pancera",1,2,2,94.49,0
+563,1390000,"Casa",3,"Jardim Pancera",1,4,4,231.51,514.64
+564,205000,"Casa",2,"São Francisco",1,2,1,59,126.73
+565,490000,"Apartamento",3,"Jardim Pancera",1,2,2,105.01,0
+566,630000,"Apartamento",3,"Jardim Concórdia",1,2,2,142.96,0
+567,369000,"Apartamento",2,"Jardim Pancera",0,1,1,58.46,0
+568,400000,"Casa",4,"Centro",0,2,3,126.8,360
+569,630000,"Apartamento",3,"Vila Industrial",3,4,2,154,0
+570,410000,"Apartamento",2,"Jardim Pancera",0,1,1,58.46,0
+571,395000,"Apartamento",2,"Jardim Pancera",1,2,1,71.61,0
+572,210000,"Casa",4,"Jardim Europa",1,2,2,136,300
+573,325000,"Casa",3,"Jardim Bressan",1,2,1,88,360
+574,2975000,"Apartamento",3,"Centro",1,4,1,570.53,1000
+575,380000,"Apartamento",2,"Jardim Pancera",1,2,1,75.51,0
+576,395000,"Apartamento",2,"Jardim Pancera",1,2,1,71.61,0
+577,1500000,"Casa",3,"Centro",0,2,1,158.38,450
+578,435000,"Apartamento",2,"Jardim Pancera",1,2,1,71.61,0
+579,430000,"Apartamento",3,"Centro",1,2,1,127.13,0
+580,255000,"Casa",2,"Jardim Panorama",1,2,2,59.1,125
+581,968500,"Casa",3,"Vila Becker",1,2,2,168.22,360
+582,275000,"Casa",2,"Jardim Panorama",1,2,2,59.1,125
+583,520000,"Apartamento",3,"Jardim La Salle",1,2,1,115,0
+584,520000,"Apartamento",3,"Jardim La Salle",1,2,1,115,0
+585,520000,"Apartamento",3,"Jardim La Salle",1,2,1,117,0
+586,480000,"Casa",4,"Centro",0,2,1,226,450
+587,210000,"Casa",2,"São Francisco",1,2,1,55,126.7
+588,520000,"Apartamento",3,"Jardim La Salle",1,2,1,122,0
+589,210000,"Casa",2,"São Francisco",1,2,1,55,126.7
+590,265000,"Apartamento",2,"Jardim Concórdia",0,1,1,60.37,0
+591,265000,"Apartamento",2,"Vila Industrial",0,1,1,57.57,0
+592,205000,"Casa",2,"Pinheirinho",0,1,1,49.29,72.3
+593,265000,"Apartamento",2,"Vila Industrial",0,1,1,56.82,0
+594,560000,"Casa",3,"Vila Becker",1,2,2,180,118
+595,285000,"Apartamento",2,"Vila Industrial",0,1,1,56.82,0
+596,265000,"Apartamento",2,"Vila Industrial",0,1,1,56.82,0
+597,225000,"Apartamento",2,"Jardim Europa",0,1,1,65,0
+598,285000,"Apartamento",2,"Vila Industrial",0,1,1,57.57,0
+599,285000,"Apartamento",2,"Vila Industrial",0,1,1,55.79,0
+600,365000,"Casa",3,"Jardim Pancera",1,2,1,74,115
+601,360000,"Casa",3,"Jardim Gisela",0,1,1,119.64,289.96
+602,285000,"Apartamento",2,"Vila Industrial",0,1,1,56.82,0
+603,560000,"Casa",3,"Vila Becker",1,2,1,118,180
+604,205000,"Casa",2,"Pinheirinho",0,1,1,49.29,73.3
+605,385000,"Casa",3,"Jardim Pancera",1,2,1,74,156
+606,495000,"Casa",2,"Jardim Coopagro",0,1,1,166.32,336
+607,355000,"Apartamento",2,"Vila Industrial",1,2,1,72.04,0
+608,270000,"Casa",3,"Residencial Santa Clara",1,3,3,180,250
+609,380000,"Apartamento",2,"Vila Industrial",1,2,1,72.04,0
+610,355000,"Apartamento",2,"Vila Industrial",1,2,1,72.04,0
+611,750000,"Apartamento",3,"Centro",3,4,2,161.37,0
+612,294946,"Apartamento",2,"Jardim Filadélpia",0,1,1,64.04,0
+613,365000,"Apartamento",2,"Vila Industrial",1,2,1,72.04,0
+614,345236,"Apartamento",2,"Jardim Filadélpia",1,2,1,71.22,0
+615,303101,"Apartamento",2,"Jardim Filadélpia",0,1,1,64.04,0
+616,307179,"Apartamento",2,"Jardim Filadélpia",0,1,1,64.04,0
+617,390000,"Apartamento",2,"Vila Industrial",1,2,1,72.04,0
+618,303101,"Apartamento",2,"Jardim Filadélpia",0,1,1,64.04,0
+619,379000,"Apartamento",2,"Jardim Gisela",1,2,1,70,0
+620,320000,"Apartamento",2,"Centro",1,2,1,66.03,0
+621,379000,"Apartamento",2,"Jardim Gisela",1,2,1,70,0
+622,375000,"Apartamento",2,"Vila Industrial",1,2,1,72.04,0
+623,600000,"Apartamento",2,"Centro",1,2,2,75.15,0
+624,650000,"Casa",4,"Jardim Coopagro",1,2,2,127.15,490
+625,352000,"Apartamento",2,"Jardim Tocantins",0,1,1,64,0
+626,800000,"Casa",4,"Jardim Tocantins",2,3,2,184.64,360
+627,330000,"Casa",3,"Conjunto Habitacional Britânia",1,2,2,70,133.75
+628,380000,"Apartamento",2,"Jardim Tocantins",1,2,1,80.3,0
+629,210000,"Casa",2,"São Francisco",1,2,2,57,139.75
+630,260000,"Apartamento",1,"Jardim Santa Maria",1,2,1,60,0
+631,362000,"Apartamento",2,"Jardim Tocantins",0,1,1,64,0
+632,590000,"Casa",3,"Jardim Gisela",1,3,1,120,180.03
+633,450000,"Apartamento",3,"Vila Industrial",1,2,1,90.47,0
+634,450000,"Apartamento",3,"Vila Industrial",1,2,2,90.47,0
+635,450000,"Apartamento",3,"Vila Industrial",1,2,1,90.47,0
+636,450000,"Apartamento",3,"Vila Industrial",1,2,2,90.47,0
+637,450000,"Apartamento",3,"Vila Industrial",1,2,1,90.47,0
+638,312000,"Casa",3,"São Francisco",1,2,2,70,162.25
+639,352000,"Apartamento",2,"Jardim Tocantins",0,1,1,64,0
+640,1780000,"Apartamento",4,"Centro",2,3,2,193.2,0
+641,495000,"Apartamento",2,"Jardim Tocantins",1,2,1,90.46,0
+642,195000,"Apartamento",2,"Centro",0,1,1,57,0
+643,480000,"Apartamento",3,"Centro",1,2,2,93.1,0
+644,390000,"Casa",2,"Jardim Coopagro",1,3,2,136,253
+645,240000,"Casa",2,"Jardim Bressan",0,2,1,57.26,142.5
+646,450000,"Casa",3,"Jardim Concórdia",1,2,4,71,180
+647,250000,"Casa",2,"Jardim Coopagro",1,2,1,60.75,125
+648,638000,"Casa",3,"Jardim Filadélpia",1,3,2,139.75,187.92
+649,250000,"Casa",2,"Jardim Coopagro",1,2,1,60.75,125
+650,320000,"Apartamento",2,"Vila Industrial",2,3,2,150,180
+651,235000,"Apartamento",2,"Jardim Tocantins",0,1,1,53.81,0
+652,638000,"Casa",3,"Jardim Paraná",1,3,2,139.75,187.92
+653,220000,"Casa",2,"São Francisco",0,1,1,74.4,250
+654,342000,"Apartamento",2,"Jardim Tocantins",0,1,1,64,0
+655,350000,"Casa",2,"Jardim Panorama",1,2,2,109.1,489.99
+656,580000,"Casa",3,"Centro",1,3,1,118.55,180
+657,1812255,"Apartamento",3,"Vila Industrial",3,4,2,170.54,0
+658,450000,"Apartamento",3,"Boa Esperança",1,2,2,132,0
+659,547000,"Casa",3,"Centro",1,2,3,99.97,501.74
+660,2700000,"Apartamento",3,"Centro",3,4,2,289.46,0
+661,2071757,"Apartamento",2,"Vila Industrial",2,3,2,170.54,0
+662,1877149,"Apartamento",3,"Vila Industrial",3,4,2,170.54,0
+663,580000,"Casa",3,"Centro",1,3,1,118.55,180
+664,2030405,"Apartamento",3,"Vila Industrial",3,4,3,170.54,0
+665,230000,"Casa",2,"Jardim Coopagro",0,1,1,52.7,200
+666,1773588,"Apartamento",3,"Vila Industrial",3,4,2,170.54,0
+667,2400000,"Apartamento",3,"Vila Industrial",3,4,3,170.54,314.32
+668,250000,"Casa",2,"Jardim Panorama",0,1,1,98.12,367.5
+669,350000,"Apartamento",2,"Jardim Pancera",0,1,1,63.5,0
+670,450000,"Apartamento",3,"Jardim La Salle",1,2,1,115,0
+671,1800000,"Casa",3,"Jardim La Salle",2,2,2,309.54,889
+672,350000,"Casa",3,"Vila Pioneiro",0,2,3,138,275
+673,580000,"Apartamento",3,"Vila Industrial",1,2,2,184.91,0
+674,650000,"Apartamento",3,"Jardim Gisela",1,2,2,111.4,0
+675,465250,"Apartamento",2,"Centro",1,2,1,79.25,0
+676,471950,"Apartamento",2,"Centro",1,2,1,79.25,0
+677,526500,"Apartamento",2,"Centro",1,2,1,76.3,0
+678,385000,"Apartamento",3,"Jardim La Salle",1,2,1,123.93,0
+679,538500,"Apartamento",2,"Centro",1,2,1,79.25,0
+680,538500,"Apartamento",2,"Centro",1,2,1,79.25,0
+681,526500,"Apartamento",2,"Centro",1,2,1,76.3,0
+682,471950,"Apartamento",2,"Centro",1,2,1,79.25,0
+683,788076,"Apartamento",2,"Centro",1,2,1,124.1,0
+684,339532,"Apartamento",2,"Centro",1,2,1,58.57,0
+685,275000,"Apartamento",1,"Biopark",1,1,0,37.5,0
+686,342927,"Apartamento",2,"Centro",1,2,1,58.57,0
+687,346357,"Apartamento",2,"Centro",1,2,1,58.57,0
+688,255000,"Apartamento",1,"Biopark",1,1,0,36.5,0
+689,356852,"Apartamento",2,"Centro",1,2,1,58.57,0
+690,360420,"Apartamento",2,"Centro",1,2,1,58.57,0
+691,225000,"Casa",3,"São Francisco",0,1,1,96,155.12
+692,367665,"Apartamento",2,"Centro",1,2,1,58.57,0
+693,353319,"Apartamento",2,"Centro",1,2,1,58.57,0
+694,290000,"Casa",2,"Vila Operária",0,2,1,0,259.16
+695,350000,"Casa",2,"Vila Paulista",0,1,0,93,457.22
+696,300000,"Casa",2,"Jardim Europa",0,1,1,120,390
+697,1700000,"Apartamento",3,"Centro",3,5,2,199,0
+698,337578,"Apartamento",2,"Centro",1,2,1,55.48,0
+699,340954,"Apartamento",2,"Centro",1,2,1,55.48,0
+700,364024,"Apartamento",2,"Centro",1,2,1,58.57,0
+701,329547,"Apartamento",2,"Centro",1,2,1,58.57,0
+702,327964,"Apartamento",2,"Centro",1,2,1,55.48,0
+703,393987,"Apartamento",2,"Centro",1,2,1,58.57,0
+704,339532,"Apartamento",2,"Centro",1,2,1,58.57,0
+705,346357,"Apartamento",2,"Centro",1,2,1,58.57,0
+706,342927,"Apartamento",2,"Centro",1,2,1,58.57,0
+707,356852,"Apartamento",2,"Centro",1,2,1,58.57,0
+708,1290000,"Apartamento",4,"Centro",2,4,2,196.4,0
+709,353319,"Apartamento",2,"Centro",1,2,1,58.57,0
+710,364024,"Apartamento",2,"Centro",1,2,1,58.57,0
+711,349820,"Apartamento",2,"Centro",1,2,1,58.57,0
+712,367665,"Apartamento",2,"Centro",1,2,1,58.57,0
+713,326284,"Apartamento",2,"Centro",1,2,1,58.57,0
+714,2000000,"Casa",3,"Jardim Pancera",1,4,2,226.93,490
+715,366170,"Apartamento",2,"Centro",1,2,1,58.57,0
+716,230000,"Apartamento",2,"Jardim Planalto",0,1,1,51.86,0
+717,550000,"Apartamento",3,"Jardim La Salle",1,2,2,96.83,0
+718,336170,"Apartamento",2,"Centro",1,2,1,58.57,0
+719,390356,"Apartamento",2,"Centro",1,2,2,55.48,0
+720,386491,"Apartamento",2,"Centro",1,2,2,55.48,0
+721,334236,"Apartamento",2,"Centro",1,2,1,55.48,0
+722,334236,"Apartamento",2,"Centro",1,2,1,55.48,0
+723,324406,"Apartamento",2,"Centro",1,2,1,55.48,0
+724,330926,"Apartamento",2,"Centro",1,2,1,55.48,0
+725,340954,"Apartamento",2,"Centro",1,2,1,55.48,0
+726,344363,"Apartamento",2,"Centro",1,2,1,55.48,0
+727,351285,"Apartamento",2,"Centro",1,2,1,55.48,0
+728,311748,"Apartamento",2,"Centro",1,2,1,55.48,0
+729,321194,"Apartamento",2,"Centro",1,2,1,55.48,0
+730,327650,"Apartamento",2,"Centro",1,2,1,55.48,0
+731,337578,"Apartamento",2,"Centro",1,2,1,55.48,0
+732,324406,"Apartamento",2,"Centro",1,2,1,55.48,0
+733,185000,"Casa",1,"Jardim Santa Clara IV",1,2,2,60,225
+734,230000,"Casa",2,"São Francisco",1,2,1,64,130.04
+735,347807,"Apartamento",2,"Centro",1,2,1,55.48,0
+736,1400000,"Casa",3,"Jardim Pancera",3,4,2,260,462
+737,1200000,"Apartamento",3,"Jardim La Salle",1,2,2,130,0
+738,365000,"Casa",3,"Jardim Porto Alegre",0,1,1,120,400.4
+739,400000,"Casa",3,"Jardim Coopagro",1,2,1,0,490
+740,365000,"Casa",2,"Jardim Porto Alegre",0,1,0,114.23,400.4
+741,980000,"Casa",3,"Jardim Porto Alegre",1,2,2,230,1200
+742,289962,"Apartamento",1,"Centro",1,1,1,44.46,0
+743,287091,"Apartamento",1,"Centro",1,1,1,44.46,0
+744,382665,"Apartamento",2,"Centro",1,2,2,55.48,0
+745,292861,"Apartamento",1,"Centro",1,1,1,44.46,0
+746,273157,"Apartamento",1,"Centro",1,1,1,44.46,0
+747,281434,"Apartamento",1,"Centro",1,1,1,44.46,0
+748,278648,"Apartamento",1,"Centro",1,1,1,44.46,0
+749,450000,"Apartamento",3,"Jardim Santa Maria",1,3,1,83.37,0
+750,375000,"Apartamento",1,"Jardim Santa Maria",1,2,1,68.9,0
+751,180000,"Apartamento",2,"Centro",0,1,1,40,0
+752,400000,"Apartamento",1,"Jardim Pancera",1,2,1,107.38,0
+753,370000,"Apartamento",2,"Jardim Santa Maria",1,2,1,65,0
+754,410000,"Apartamento",2,"Jardim Santa Maria",1,2,1,65,0
+755,410000,"Apartamento",2,"Jardim Santa Maria",1,2,1,65,0
+756,230000,"Casa",2,"São Francisco",1,2,1,64.98,150
+757,220000,"Casa",2,"São Francisco",1,2,1,64.98,150
+758,200000,"Apartamento",2,"Jardim Gisela",0,1,1,56.04,0
+759,375000,"Casa",3,"Jardim Gisela",1,3,1,207.23,207.23
+760,400000,"Casa",2,"Jardim Tocantins",0,1,1,180,360
+761,450000,"Casa",4,"Jardim Panorama",0,2,2,200,297.3
+762,385000,"Apartamento",2,"Jardim Gisela",0,1,1,57.18,0
+763,245000,"Casa",2,"São Francisco",1,2,1,66.63,137
+764,390000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+765,330926,"Apartamento",2,"Centro",1,2,1,55.48,0
+766,400000,"Casa",2,"Vila Pioneiro",0,1,1,100,700.11
+767,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+768,390000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+769,540000,"Apartamento",3,"Jardim Gisela",1,2,2,222,222
+770,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+771,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+772,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+773,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+774,390000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+775,350000,"Casa",3,"Vila Pioneiro",0,2,1,200,301.95
+776,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+777,350000,"Casa",2,"Vila Becker",0,1,1,0,275
+778,723271,"Apartamento",3,"Vila Industrial",1,3,2,121.2,234.93
+779,350000,"Casa",2,"Vila Industrial",0,1,1,120,223.44
+780,738032,"Apartamento",3,"Vila Industrial",1,3,2,121.2,234.93
+781,250,"Apartamento",2,"Jardim Pancera",1,2,1,72,0
+782,794779,"Apartamento",3,"Vila Industrial",1,3,2,121.2,234.93
+783,279000,"Casa",2,"Jardim Europa",0,1,1,99,258
+784,735063,"Apartamento",3,"Vila Industrial",1,3,2,115.3,224.86
+785,704569,"Apartamento",3,"Vila Industrial",1,3,2,115.3,224.86
+786,677421,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+787,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+788,1100000,"Casa",3,"Jardim Tocantins",1,3,2,148,360
+789,691246,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+790,380000,"Apartamento",2,"Jardim Gisela",1,2,1,74,0
+791,717748,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+792,705353,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+793,736742,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+794,756185,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+795,210000,"Casa",2,"Jardim Europa",0,1,2,60.32,308.3
+796,190000,"Casa",2,"Pinheirinho",0,1,1,50,125
+797,630000,"Apartamento",3,"Centro",3,4,2,161.37,195.67
+798,365000,"Apartamento",3,"Jardim Concórdia",1,2,2,84.12,0
+799,795000,"Apartamento",3,"Jardim La Salle",1,2,2,110,0
+800,245000,"Apartamento",2,"Jardim Concórdia",0,1,1,56.97,0
+801,480000,"Casa",3,"Jardim Gisela",1,2,2,99.9,180.31
+802,350000,"Apartamento",2,"Jardim Coopagro",1,2,1,115.26,0
+803,330000,"Casa",3,"Vila Pioneiro",0,2,1,118,368.87
+804,258000,"Apartamento",2,"Centro",0,1,1,50.36,0
+805,950000,"Apartamento",3,"Centro",3,4,2,163,0
+806,990000,"Casa",2,"Vila Industrial",1,3,3,190,361
+807,708805,"Apartamento",3,"Vila Industrial",1,3,2,121.2,234.93
+808,1475000,"Apartamento",3,"Centro",1,2,1,190,0
+809,773815,"Apartamento",3,"Vila Industrial",1,2,2,117.79,229.11
+810,650000,"Apartamento",2,"Jardim La Salle",1,2,1,100.94,0
+811,400000,"Casa",2,"Jardim Panorama",1,2,2,122,253.68
+812,360000,"Casa",3,"Jardim Tocantins",0,1,1,83.02,162
+813,290000,"Casa",3,"Jardim Concórdia",0,1,1,69.62,289
+814,536500,"Apartamento",2,"Centro",1,2,2,76.3,0
+815,1200000,"Casa",3,"Jardim Gisela",2,3,2,225.94,400
+816,210000,"Casa",2,"Jardim Europa",0,1,1,57,93.75
+817,536500,"Apartamento",2,"Centro",1,2,2,76.3,0
+818,235000,"Casa",3,"Pinheirinho",0,1,1,65,125
+819,750000,"Apartamento",3,"Centro",1,3,2,164,0
+820,150000,"Casa",2,"Distrito de Novo Sarandi",0,1,1,44.4,275
+821,300000,"Casa",3,"São Francisco",0,1,2,120,275
+822,450000,"Casa",4,"Jardim Porto Alegre",1,3,1,200,375
+823,360000,"Casa",3,"Jardim Europa",1,2,1,65.23,300
+824,360000,"Casa",3,"Jardim Europa",0,1,3,84.1,390
+825,531500,"Apartamento",2,"Centro",1,2,2,76.3,0
+826,605000,"Apartamento",3,"Jardim La Salle",1,2,2,120,0
+827,980000,"Casa",4,"Jardim Pancera",0,2,0,226.84,1668.01
+828,595000,"Apartamento",3,"Jardim La Salle",1,2,2,120,0
+829,300000,"Apartamento",2,"Vila Industrial",0,1,2,54,0
+830,200000,"Apartamento",2,"Jardim Concórdia",0,1,1,53.83,0
+831,680737,"Apartamento",3,"Vila Industrial",1,3,2,121.2,234.93
+832,365000,"Apartamento",3,"Jardim Concórdia",1,2,2,84.12,0
+833,780000,"Casa",4,"Vila Industrial",1,3,4,200,450
+834,235000,"Casa",3,"São Francisco",0,1,1,140,312.09
+835,518490,"Apartamento",2,"Centro",1,2,2,78.88,0
+836,410000,"Apartamento",2,"Jardim Tocantins",1,2,1,114.83,0
+837,521500,"Apartamento",2,"Centro",1,2,2,76.3,0
+838,523500,"Apartamento",2,"Centro",1,2,2,78.88,0
+839,1444280,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,330.76
+840,528500,"Apartamento",2,"Centro",1,2,2,78.88,0
+841,528500,"Apartamento",2,"Centro",1,2,2,78.88,0
+842,1449825,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,332.03
+843,1458678,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,331.08
+844,1458943,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,331.14
+845,1463172,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,332.1
+846,1375157,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,314.93
+847,1490799,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,334.79
+848,1474055,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,334.57
+849,1498327,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,329.62
+850,1480838,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,329.07
+851,600000,"Casa",3,"Vila Pioneiro",2,3,2,250,450
+852,320000,"Apartamento",3,"Centro",1,2,1,97.57,0
+853,1518072,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,330.99
+854,1475481,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,331.35
+855,1498883,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,333.08
+856,550000,"Casa",3,"Jardim Pancera",1,2,2,102.88,180
+857,1516918,"Apartamento",3,"Jardim La Salle",3,4,3,171.5,333.71
+858,1435634,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,328.78
+859,533500,"Apartamento",2,"Centro",1,2,2,78.88,0
+860,635000,"Casa",3,"Jardim Gisela",1,2,2,130,360
+861,770700,"Apartamento",3,"Jardim La Salle",1,2,2,119.29,169.93
+862,1299935,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,307.32
+863,1308480,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,309.34
+864,1320154,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,312.1
+865,1362567,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,315.45
+866,1331942,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,308.36
+867,1332504,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,308.49
+868,1331942,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,308.36
+869,1329998,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,307.91
+870,1307803,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,309.18
+871,1332935,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,308.59
+872,1301162,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,307.61
+873,495000,"Apartamento",3,"Vila Industrial",1,2,2,179,0
+874,276000,"Casa",2,"Jardim Bandeirantes",0,2,1,80,264.6
+875,1411094,"Apartamento",3,"Jardim La Salle",3,4,2,171.5,323.16
+876,220000,"Casa",2,"Jardim Concórdia",0,1,1,54.8,89.11
+877,750000,"Apartamento",3,"Jardim La Salle",1,2,2,126,0
+878,450000,"Casa",3,"Vila Pioneiro",1,2,1,95.23,350.21
+879,200000,"Apartamento",2,"Jardim Coopagro",0,1,1,51.54,0
+880,235000,"Casa",2,"Jardim Coopagro",0,1,1,41.82,182
+881,677999,"Apartamento",3,"Jardim La Salle",1,2,2,117.49,173.11
+882,734932,"Apartamento",3,"Jardim La Salle",1,2,2,121.91,0
+883,691350,"Apartamento",3,"Jardim La Salle",1,2,2,119.29,172.86
+884,739074,"Apartamento",3,"Jardim La Salle",1,2,2,118.23,168.53
+885,360000,"Casa",2,"São Francisco",0,1,4,100,250
+886,758589,"Apartamento",3,"Jardim La Salle",1,2,2,121.91,172.98
+887,714110,"Apartamento",3,"Jardim La Salle",1,2,2,118.23,171.48
+888,600000,"Casa",3,"Jardim Concórdia",1,3,1,270,640
+889,784533,"Apartamento",3,"Jardim La Salle",1,2,2,121.91,172.98
+890,580000,"Casa",3,"Jardim Panorama",1,2,1,120,466.27
+891,753700,"Apartamento",3,"Vila Industrial",1,2,1,111,0
+892,328600,"Apartamento",2,"Jardim Pancera",1,2,1,71.21,0
+893,750000,"Casa",1,"Vila Industrial",2,3,2,180,446.89
+894,876950,"Apartamento",3,"Vila Industrial",1,2,1,123.35,0
+895,260000,"Casa",2,"Jardim Coopagro",0,1,1,59.55,125
+896,315000,"Apartamento",2,"Jardim Concórdia",1,2,2,84.12,0
+897,600000,"Casa",3,"Jardim Coopagro",0,1,1,110.5,490
+898,195000,"Apartamento",2,"Vila Industrial",0,1,1,52.8,0
+899,300000,"Casa",3,"Jardim Bressan",0,2,2,140,360
+900,560000,"Apartamento",3,"Jardim Gisela",1,2,2,137.31,0
+901,580000,"Apartamento",3,"Jardim Gisela",1,2,2,137.31,0
+902,420000,"Apartamento",2,"Vila Industrial",1,2,1,89.65,0
+903,250000,"Apartamento",2,"Jardim Santa Maria",0,1,1,70.11,0
+904,1600000,"Apartamento",3,"Centro",1,3,2,295.05,0
+905,745214,"Apartamento",3,"Jardim La Salle",1,2,2,119.29,169.93
+906,285000,"Casa",3,"São Francisco",1,2,1,107,250
+907,640000,"Apartamento",3,"Jardim La Salle",1,2,2,130,0
+908,4016586,"Apartamento",4,"Vila Industrial",4,6,5,411.48,0
+909,1100000,"Casa",6,"Vila Industrial",2,3,3,180,750
+910,320000,"Apartamento",2,"Jardim Santa Maria",0,1,1,70,0
+911,1600000,"Casa",3,"Jardim La Salle",1,4,4,174.61,600
+912,150000,"Apartamento",2,"São Francisco",0,1,1,70.22,0
+913,629000,"Apartamento",3,"Jardim La Salle",1,2,2,100,0
+914,340000,"Apartamento",2,"Jardim Santa Maria",1,2,1,65.6,0
+915,900000,"Casa",3,"Jardim Santa Maria",0,1,2,120,399.55
+916,2850000,"Casa",4,"Jardim La Salle",1,4,4,341.02,1561
+917,1750000,"Apartamento",3,"Centro",1,3,2,193,0
+918,700000,"Casa",4,"Vila Industrial",0,2,2,189,450
+919,390000,"Apartamento",2,"Jardim Santa Maria",1,2,1,73.78,0
+920,450000,"Casa",3,"Jardim Tocantins",1,2,2,120,360
+921,850000,"Apartamento",3,"Jardim La Salle",1,2,2,110,0
+922,1100000,"Casa",3,"Centro",1,2,4,240,800
+923,470000,"Apartamento",2,"Vila Industrial",1,2,2,120,0
+924,550000,"Apartamento",3,"Centro",1,2,1,130.78,0
+925,240000,"Casa",3,"Pinheirinho",0,1,1,90,240
+926,200000,"Casa",3,"Jardim Panorama",1,2,2,60,100
+927,270000,"Casa",2,"Jardim Coopagro",0,2,2,85,250
+928,700000,"Apartamento",3,"Vila Industrial",3,4,2,113.42,0
+929,180000,"Apartamento",2,"Jardim Gisela",0,1,1,51.91,0
+930,850000,"Casa",3,"Centro",0,2,2,172.2,440
+931,450000,"Apartamento",3,"Vila Industrial",1,2,2,90.47,0
+932,750000,"Casa",3,"Distrito São Miguel",0,1,2,278,1800
+933,450000,"Apartamento",2,"Jardim La Salle",1,2,1,97,0
+934,220000,"Apartamento",2,"Jardim Santa Clara IV",0,1,1,56.45,0
+935,500000,"Apartamento",3,"Vila Industrial",1,2,1,119.86,0
+936,355000,"Casa",2,"São Francisco",0,1,2,90,165
+937,200000,"Apartamento",2,"Jardim Santa Maria",0,1,1,55.09,0
+938,405000,"Casa",3,"Vila Pioneiro",1,2,2,151,496
+939,450000,"Apartamento",3,"Vila Industrial",1,2,1,119.86,0
+940,590000,"Apartamento",1,"Jardim La Salle",1,2,1,110,0
+941,250000,"Casa",2,"Centro",0,1,1,0,71.16
+942,250000,"Apartamento",2,"Jardim Tocantins",0,1,1,58,0
+943,168000,"Apartamento",2,"Jardim Panorama",0,1,1,58,0
+944,205000,"Apartamento",2,"Jardim Toretta",0,1,1,56.43,0
+945,390000,"Apartamento",1,"Vila Industrial",1,1,1,70,0
+946,310000,"Casa",4,"Jardim Bressan",0,2,2,120,465.51
+947,320000,"Apartamento",3,"Jardim La Salle",1,2,1,87.28,0
+948,350000,"Casa",3,"Vila Pioneiro",1,3,2,120,300
+949,138000,"Apartamento",2,"São Francisco",0,1,1,53.23,0
+950,370000,"Apartamento",2,"Jardim Tocantins",1,2,1,81.24,0
+951,229000,"Apartamento",2,"Jardim Tocantins",0,1,1,88,0
+952,179000,"Apartamento",2,"São Francisco",0,1,1,54.05,0
+953,180000,"Apartamento",2,"Jardim Concórdia",0,1,1,53.83,0
+954,580000,"Apartamento",3,"Centro",1,2,1,162.18,0
+955,1000000,"Apartamento",4,"Jardim La Salle",2,4,3,225.69,0
+956,320000,"Apartamento",2,"Centro",0,1,1,57.41,0
+957,385000,"Apartamento",3,"Centro",1,2,1,99.84,0
+958,290000,"Casa",3,"Jardim Bressan",0,1,3,160,449.1
+959,420000,"Apartamento",2,"Jardim La Salle",1,2,1,87,0
+960,200000,"Apartamento",2,"Jardim Coopagro",0,1,1,51.54,0
+961,490000,"Apartamento",2,"Centro",1,2,1,70.56,0
+962,1600000,"Casa",3,"Jardim Santa Maria",1,4,2,226.87,464.4
+963,280000,"Apartamento",2,"Jardim La Salle",0,1,1,62,0
+964,510000,"Apartamento",2,"Centro",1,2,2,72.56,0
+965,850000,"Apartamento",2,"Centro",1,1,2,114,0
+966,1200000,"Apartamento",4,"Jardim La Salle",2,4,3,225.69,0
+967,350000,"Apartamento",2,"Jardim La Salle",0,1,1,65.28,82.1
+968,565000,"Casa",3,"Vila Industrial",1,1,1,0,0
+969,225000,"Casa",2,"Jardim Europa",0,1,1,52.52,109.2
+970,1200000,"Casa",3,"Vila Industrial",0,1,0,0,784
+971,441225,"Apartamento",2,"Jardim Pancera",1,1,2,85.75,0
+972,481999,"Apartamento",2,"Jardim Pancera",1,1,2,96.77,0
+973,458578,"Apartamento",2,"Jardim Pancera",1,1,2,85.75,0
+974,680000,"Casa",3,"Jardim Pancera",0,1,3,145.25,404.36
+975,441225,"Apartamento",2,"Jardim Pancera",1,1,2,85.75,0
+976,520000,"Apartamento",2,"Jardim La Salle",0,1,1,84,0
+977,225000,"Apartamento",2,"Jardim Filadélpia",0,1,1,60,0
+978,1200000,"Casa",4,"Jardim Gisela",1,3,3,190,360
+979,890000,"Casa",3,"Vila Industrial",0,1,0,0,555
+980,1050000,"Apartamento",4,"Vila Industrial",1,2,3,206.28,0
+981,595000,"Apartamento",2,"Centro",1,2,2,130,0
+982,461950,"Apartamento",2,"Centro",1,2,1,78.88,0
+983,215000,"Apartamento",2,"Jardim Coopagro",0,1,1,55.19,0
+984,380000,"Apartamento",2,"Jardim Pancera",0,1,1,65.83,0
+985,380000,"Apartamento",2,"Jardim La Salle",0,1,1,83.75,0
+986,500000,"Apartamento",3,"Jardim Gisela",1,2,2,92.28,0
+987,165000,"Apartamento",2,"Jardim Coopagro",0,1,1,50,0
+988,220000,"Casa",3,"Vila Pioneiro",0,1,1,117,368.87
+989,360000,"Apartamento",2,"Jardim Pancera",1,2,2,65.83,0
+990,850000,"Casa",3,"Jardim Porto Alegre",1,2,2,164.67,422.52
+991,296000,"Apartamento",2,"Jardim Tocantins",0,1,1,60,0
+992,208000,"Casa",1,"Jardim Pancera",1,1,1,57,0
+993,250000,"Apartamento",2,"Jardim Tocantins",0,1,1,52.66,0
+994,1000000,"Casa",6,"Jardim La Salle",0,3,2,175.52,600
+995,480000,"Casa",3,"Jardim Pancera",1,2,2,100,180
+996,160000,"Apartamento",2,"Vila Pioneiro",0,1,1,70.26,0
+997,200000,"Apartamento",2,"Vila Pioneiro",0,1,1,54.27,0
+998,339250,"Apartamento",2,"Jardim Pancera",1,2,1,66.96,0
+999,145000,"Apartamento",2,"São Francisco",0,1,1,52.94,0
+1000,998000,"Apartamento",3,"Centro",1,4,2,158.04,0
+1001,350000,"Apartamento",4,"Centro",1,3,1,134.85,0
+1002,200000,"Apartamento",2,"Vila Becker",0,1,1,81.2,0
+1003,470000,"Apartamento",3,"Jardim Gisela",1,2,2,164,0
+1004,220000,"Apartamento",2,"Vila Industrial",0,1,1,55.29,0
+1005,496000,"Apartamento",3,"Centro",1,2,2,129.05,0
+1006,513000,"Apartamento",3,"Centro",1,2,2,129.05,0
+1007,350000,"Casa",2,"Jardim Santa Clara IV",0,1,2,130,258
+1008,390000,"Apartamento",2,"Jardim Tocantins",1,2,1,86.16,125.55
+1009,1450000,"Apartamento",4,"Centro",2,5,2,193.2,0
+1010,1300000,"Apartamento",3,"Centro",1,3,2,147,0
+1011,580000,"Apartamento",3,"Centro",1,2,1,136.6,0
+1012,670000,"Apartamento",3,"Jardim La Salle",1,2,2,198.39,0
+1013,295000,"Apartamento",2,"Jardim Santa Maria",1,2,1,50,0
+1014,550000,"Casa",3,"Centro",0,3,2,209,490
+1015,650000,"Casa",2,"Jardim Porto Alegre",0,1,1,60.06,650
+1016,390000,"Casa",3,"Jardim Coopagro",0,1,2,148.44,295
+1017,360000,"Apartamento",2,"Jardim Santa Maria",0,1,1,67,0
+1018,900000,"Casa",3,"Jardim Pancera",1,2,2,248,497
+1019,700000,"Casa",4,"Vila Paulista",1,2,1,193,600
+1020,590000,"Apartamento",3,"Centro",1,2,2,170,0
+1021,900000,"Casa",4,"Jardim Porto Alegre",1,3,2,233.35,422.52
+1022,420000,"Casa",3,"Jardim Panorama",1,3,2,121.66,158
+1023,1200000,"Casa",5,"Vila Industrial",1,2,5,275,525
+1024,150000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
+1025,350000,"Apartamento",2,"Jardim Santa Maria",1,2,1,65,0
+1026,1790000,"Apartamento",4,"Centro",4,5,2,196.85,0
+1027,630000,"Casa",3,"Jardim Pancera",1,3,2,222,362.5
+1028,150000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
+1029,250000,"Casa",3,"Jardim Panorama",0,1,1,120,373.12
+1030,295000,"Apartamento",2,"Jardim Santa Maria",0,1,1,76.59,0
+1031,395000,"Casa",3,"Jardim Concórdia",1,2,1,88,180
+1032,690000,"Casa",3,"Jardim Panorama",1,3,3,113.89,343.07
+1033,230000,"Apartamento",2,"Vila Becker",0,1,1,79.94,0
+1034,850000,"Casa",2,"Jardim Gisela",0,2,3,178,773.84
+1035,1200000,"Casa",4,"Jardim La Salle",1,4,2,250,800
+1036,230000,"Casa",3,"São Francisco",0,1,1,135,202.67
+1037,1280000,"Casa",3,"Jardim La Salle",0,2,2,220,805
+1038,450000,"Apartamento",3,"Vila Becker",1,2,2,90,0
+1039,1656900,"Apartamento",4,"Centro",2,4,1,150,0
+1040,450000,"Casa",2,"Vila Pioneiro",1,2,2,217,300
+1041,228000,"Apartamento",2,"Jardim Filadélpia",0,1,1,74.85,0
+1042,350000,"Casa",3,"Jardim Coopagro",1,2,2,103,250
+1043,450000,"Casa",3,"Vila Industrial",1,1,2,180,495.8
+1044,580000,"Casa",3,"Jardim Pancera",1,3,2,200,444
+1045,650000,"Casa",3,"Jardim Concórdia",1,3,2,171.05,180
+1046,190000,"Casa",3,"São Francisco",0,1,1,63.48,106.38
+1047,783886,"Apartamento",3,"Centro",1,2,2,85,0
+1048,799563,"Apartamento",3,"Centro",1,2,2,85,0
+1049,350000,"Casa",2,"Jardim Coopagro",0,3,2,140,0
+1050,380000,"Casa",3,"Jardim Parizzotto",0,2,3,140,398
+1051,640000,"Casa",5,"Jardim Coopagro",1,4,3,270.56,472.5
+1052,1732500,"Apartamento",4,"Centro",2,4,2,150,0
+1053,790000,"Casa",3,"Vila Pioneiro",1,3,2,189.65,406
+1054,438500,"Apartamento",3,"Vila Industrial",1,2,2,100,0
+1055,680000,"Apartamento",3,"Centro",1,2,2,225.15,0
+1056,1300000,"Apartamento",3,"Centro",1,2,2,296,0
+1057,2200000,"Casa",5,"Jardim La Salle",1,3,4,406,666
+1058,350000,"Apartamento",3,"Centro",0,1,1,125.45,0
+1059,360000,"Casa",3,"Jardim Concórdia",0,2,2,122.21,490
+1060,350000,"Apartamento",3,"Centro",0,1,1,125.45,0
+1061,280000,"Apartamento",2,"São Francisco",1,2,1,73.01,0
+1062,1600000,"Apartamento",1,"Centro",0,1,1,30.08,0
+1063,450000,"Apartamento",3,"Jardim La Salle",1,2,1,93.33,0
+1064,160000,"Apartamento",2,"Jardim Panorama",0,1,1,53.45,0
+1065,350000,"Casa",3,"Jardim Pancera",0,1,1,90.96,379.47
+1066,1150000,"Casa",3,"Jardim La Salle",1,2,2,212,399
+1067,320000,"Apartamento",2,"Jardim Santa Maria",1,2,1,68.9,0
+1068,370000,"Apartamento",3,"Jardim Gisela",1,2,1,125,0
+1069,280000,"Casa",2,"Jardim Coopagro",0,1,1,120,267.5
+1070,768515,"Apartamento",3,"Centro",1,2,2,85,0
+1071,590400,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+1072,576000,"Apartamento",3,"Vila Industrial",1,2,2,85,0
+1073,500000,"Apartamento",3,"Jardim Concórdia",1,2,2,160,0
+1074,1200000,"Casa",4,"Centro",0,2,3,160,1000
+1075,753446,"Apartamento",3,"Centro",1,2,2,85,0
+1076,895000,"Casa",3,"Jardim La Salle",1,2,3,185.95,399
+1077,270000,"Casa",4,"Jardim Coopagro",1,2,2,144,250
+1078,145000,"Apartamento",2,"Jardim La Salle",0,1,1,55,0
+1079,650000,"Apartamento",3,"Jardim Concórdia",1,2,2,160,0
+1080,850000,"Apartamento",3,"Centro",1,3,2,126.46,0
+1081,220000,"Casa",3,"Jardim Coopagro",0,1,1,90,112
+1082,490000,"Casa",3,"Jardim Pancera",1,2,2,133.4,266.15
+1083,1300000,"Casa",4,"Vila Industrial",1,2,4,210,520
+1084,340000,"Casa",3,"Jardim Parizzotto",1,3,2,204.4,312
+1085,300000,"Casa",2,"Vila Industrial",0,1,1,71.12,181.8
+1086,320000,"Apartamento",3,"Jardim La Salle",1,2,1,87.28,0
+1087,700000,"Casa",4,"Centro",1,3,1,181.77,390.15
+1088,400000,"Casa",2,"Centro",0,1,1,70,400
+1089,390000,"Casa",3,"Jardim Concórdia",1,1,2,97,180
+1090,690000,"Casa",3,"Jardim Bandeirantes",1,2,3,247,472.5
+1091,950000,"Casa",3,"Jardim Tocantins",1,3,2,173.57,360
+1092,425000,"Apartamento",2,"Jardim Tocantins",1,2,1,117.35,0
+1093,695000,"Casa",3,"Vila Industrial",1,2,2,187.39,501
+1094,550000,"Apartamento",3,"Jardim La Salle",2,2,1,146,0
+1095,195000,"Apartamento",2,"Jardim Coopagro",0,1,1,55.19,0
+1096,450000,"Apartamento",3,"Jardim Pancera",1,2,2,90.44,0
+1097,145000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
+1098,155000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
+1099,175000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
+1100,600000,"Apartamento",3,"Centro",1,2,2,170,0
+1101,145000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
+1102,180000,"Casa",2,"São Francisco",0,1,1,69.67,84
+1103,750000,"Apartamento",3,"Centro",1,2,1,206.48,0
+1104,230000,"Casa",2,"Boa Esperança",0,1,1,76,131
+1105,750000,"Apartamento",3,"Vila Industrial",1,2,2,140,0
+1106,470000,"Casa",3,"Vila Pioneiro",1,2,1,171.71,345
+1107,500000,"Apartamento",3,"Jardim La Salle",1,2,1,135.21,0
+1108,550000,"Apartamento",3,"Centro",1,2,1,156.67,0
+1109,178000,"Casa",2,"Jardim Coopagro",0,1,1,60,80
+1110,580000,"Casa",2,"Jardim Coopagro",0,1,2,72.05,315.15
+1111,980000,"Apartamento",3,"Jardim La Salle",1,2,2,130,230
+1112,1600000,"Casa",3,"Jardim La Salle",1,3,4,281.66,400
+1113,198000,"Apartamento",2,"Jardim Coopagro",0,1,1,55.19,0
+1114,200000,"Apartamento",2,"Jardim Coopagro",0,1,1,56.12,0
+1115,700000,"Casa",2,"Centro",0,2,2,117.44,400
+1116,750000,"Apartamento",3,"Centro",1,2,1,180,0
+1117,450000,"Apartamento",2,"Vila Industrial",1,2,1,141.08,0
+1118,175000,"Apartamento",2,"Jardim La Salle",0,1,1,52.73,0
